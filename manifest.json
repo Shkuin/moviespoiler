@@ -1,0 +1,10 @@
+{
+  "manifest_version": 2,
+  "name": "Hello World!",
+  "description": "This extension shows a Hello World message!",
+  "version": "1.0",
+  "browser_action": {
+    "default_icon": "media/mobile-app.png",
+    "default_popup": "menu.html"
+  }
+}
